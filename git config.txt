@@ -1,0 +1,14 @@
+
+Tutorial by Ashim
+git config --global user.name '***'
+
+git config --global user.email '*******'
+
+push to
+
+github repo link
+
+anyName
+
+push to
+
